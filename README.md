@@ -55,6 +55,14 @@
 
 > I’m still building up my public portfolio — here are some of my learning projects.
 
+- **AI_DEMO_CHAT_APP** — AI chatbot mobile app (iOS/Android)  
+  [`N1K1TosIk/AI_DEMO_CHAT_APP`](https://github.com/N1K1TosIk/AI_DEMO_CHAT_APP)  
+  **React Native · Expo · FastAPI · Python** — chat with AI characters, emotions, gifts, mini-games.
+
+- **Site_vibe_1** — web project  
+  [`N1K1TosIk/Site_vibe_1`](https://github.com/N1K1TosIk/Site_vibe_1)  
+  Web development practice — **HTML, CSS, JS** and modern frontend patterns.
+
 - **HTML‑CSS** — layout and styling practice  
   [`N1K1TosIk/HTML-CSS`](https://github.com/N1K1TosIk/HTML-CSS)  
   Focused on **page structure, responsive layouts and clean CSS**.
