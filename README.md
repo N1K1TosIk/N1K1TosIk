@@ -1,7 +1,108 @@
-<!-- Centered animated header -->
+<!-- Banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&lines=Hi+there%2C+I'm+Nikita+%F0%9F%91%8B;Learning+CS+through+real+projects;HTML+%2F+CSS+%2F+JS+%2F+C%2B%2B+%2F+Python" alt="Typing SVG" />
+  <a href="https://github.com/N1K1TosIk">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=00d9ff&height=140&section=header&text=Full-Stack%20Developer%20in%20progress&fontSize=32&fontColor=fff&animation=fadeIn" alt="Banner" />
+  </a>
 </p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1200&color=00D9FF&center=true&vCenter=true&width=600&lines=Building+Web+%E2%80%A2+AI+%E2%80%A2+Algorithms;CS+%40+%D0%94%D0%92%D0%A4%D0%A3+%7C+Vladivostok" alt="Typing" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000000" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+</p>
+
+---
+
+## 👋 About me
+
+- 💻 **CS student @ ДВФУ** — learning by building real projects
+- 🚀 **Mobile + Web + AI** — React Native, FastAPI, Python
+- 🎯 **Goal:** from fundamentals → confident full‑stack dev
+- 📍 **Vladivostok**
+
+---
+
+## 🚀 Projects
+
+> **HR-friendly:** what I build and what stack I use — in 5 seconds.
+
+<table>
+<tr>
+<td width="50%">
+
+### 🤖 AI Chat App
+**Mobile AI chatbot** — characters, emotions, gifts, mini-games  
+`React Native` · `Expo` · `FastAPI` · `Python`
+
+[→ View repo](https://github.com/N1K1TosIk/AI_DEMO_CHAT_APP)
+
+</td>
+<td width="50%">
+
+### 🌐 Site Vibe
+**Responsive web project** — modern JS, clean layouts  
+`HTML` · `CSS` · `JavaScript`
+
+[→ View repo](https://github.com/N1K1TosIk/Site_vibe_1)
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 📐 HTML/CSS
+Layout & styling practice — structure, responsive design  
+`HTML5` · `CSS3`
+
+[→ View repo](https://github.com/N1K1TosIk/HTML-CSS)
+
+</td>
+<td width="50%">
+
+### 🧪 Labs & Coursework
+University labs — JS, C++, Python  
+`JavaScript` · `C++` · `Python`
+
+[→ Labs_Oz](https://github.com/N1K1TosIk/Labs_Oz) · [→ Kurs_2_app](https://github.com/N1K1TosIk/Kurs_2_app) · [→ SIAP](https://github.com/N1K1TosIk/SIAP)
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🛠 Skills by level
+
+| **Core** | **Learning** |
+|----------|--------------|
+| C++ | React / React Native |
+| JavaScript | Node.js |
+| HTML / CSS | Docker |
+| Python | Algorithms & Data Structures |
+| Git | FastAPI |
+
+---
+
+## 📊 GitHub stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=N1K1TosIk&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Stats" width="400" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=N1K1TosIk&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="400" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=N1K1TosIk&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" />
+</p>
+
+---
+
+## 📬 Let's connect
 
 <p align="center">
   <a href="mailto:dannik0880@mail.ru">
@@ -12,99 +113,6 @@
   </a>
 </p>
 
----
-
-### 👋 About me
-
-- 💻 **CS student** exploring programming through labs and side projects  
-- 🌐 Interested in **web development** (HTML, CSS, JS) and **C++ / Python**  
-- 🚀 Learning by **building**: small apps, experiments and course projects  
-- 🎯 Goal: grow from **solid fundamentals** to **confident full‑stack dev**
-
----
-
-### 🧠 What I'm focusing on
-
-- **Web fundamentals**: semantic HTML, modern CSS, responsive layouts  
-- **JavaScript ecosystem**: clean JS, DOM, basic frontend patterns  
-- **C++ & algorithms**: problem‑solving and performance thinking  
-- **Python basics**: scripts, small utilities, clear code style  
-
----
-
-### 🛠 Tech stack (so far)
-
-**Languages**
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000000)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-**Tools**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white)
-
----
-
-### 📂 Highlighted projects
-
-> I’m still building up my public portfolio — here are some of my learning projects.
-
-- **AI_DEMO_CHAT_APP** — AI chatbot mobile app (iOS/Android)  
-  [`N1K1TosIk/AI_DEMO_CHAT_APP`](https://github.com/N1K1TosIk/AI_DEMO_CHAT_APP)  
-  **React Native · Expo · FastAPI · Python** — chat with AI characters, emotions, gifts, mini-games.
-
-- **Site_vibe_1** — web project  
-  [`N1K1TosIk/Site_vibe_1`](https://github.com/N1K1TosIk/Site_vibe_1)  
-  Web development practice — **HTML, CSS, JS** and modern frontend patterns.
-
-- **HTML‑CSS** — layout and styling practice  
-  [`N1K1TosIk/HTML-CSS`](https://github.com/N1K1TosIk/HTML-CSS)  
-  Focused on **page structure, responsive layouts and clean CSS**.
-
-- **Labs_Oz** — university web labs  
-  [`N1K1TosIk/Labs_Oz`](https://github.com/N1K1TosIk/Labs_Oz)  
-  Experiments with **HTML/JS**, browser APIs and basic interactivity.
-
-- **Lab_6_JS** — JavaScript lab work  
-  [`N1K1TosIk/Lab_6_JS`](https://github.com/N1K1TosIk/Lab_6_JS)  
-  Practicing **JS syntax, functions and DOM interactions**.
-
-- **Kurs_2_app** — C++ coursework app  
-  [`N1K1TosIk/Kurs_2_app`](https://github.com/N1K1TosIk/Kurs_2_app)  
-  Strengthening **C++ and problem‑solving** with a real assignment.
-
-- **SIAP** — Python project  
-  [`N1K1TosIk/SIAP`](https://github.com/N1K1TosIk/SIAP)  
-  Learning **Python basics** and scripting through practical tasks.
-
----
-
-### 📊 GitHub stats
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=N1K1TosIk&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Stats" />
+  <b>🔥 Open to internships, code reviews & collaborations — let's build something!</b>
 </p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=N1K1TosIk&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=N1K1TosIk&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" />
-</p>
-
----
-
-### 🤝 How to reach me
-
-- 📫 Email: **dannik0880@mail.ru**  
-- 💬 Telegram: [@bablroyale228](https://t.me/bablroyale228)
-
-Always open to feedback, code reviews and small collaborations — feel free to reach out!
-
